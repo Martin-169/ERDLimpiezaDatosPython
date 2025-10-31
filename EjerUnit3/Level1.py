@@ -28,3 +28,4 @@ print("\n DataFrame limpio:")
 print(df)
 
 print(f"\n Media de los precios: {media_precio:.2f}")
+
